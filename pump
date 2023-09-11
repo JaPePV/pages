@@ -1,1 +1,209 @@
-A vacuum pump is a type of pump device that draws gas particles from a sealed volume in order to leave behind a partial vacuum. The first vacuum pump was invented in 1650 by Otto von Guericke, and was preceded by the suction pump, which dates to antiquity.[1]
+
+WIKI loves monuments
+Fotografiere Kulturdenkmale,
+hilf der Wikipedia und gewinne!
+Ausblenden
+Vakuumpumpe
+
+Vakuumpumpen werden in der Technik zur Erzeugung eines Vakuums verwendet. Dabei unterscheidet man die Vakuumpumpen nach dem von ihnen erzeugten Vakuum und nach ihrem Funktionsprinzip. Technisch gesehen sind Vakuumpumpen genau genommen keine Pumpen, sondern Verdichter. Die erste Vakuumpumpe war eine Kolbenpumpe und wurde 1649 von Otto von Guericke gebaut (siehe Luftpumpe).
+Inhaltsverzeichnis
+
+    1 Grundprinzip
+    2 Bauarten
+        2.1 Verdrängerpumpe
+            2.1.1 Sperrschieberpumpe
+        2.2 Strahlpumpe
+        2.3 Molekularpumpe
+        2.4 Turbomolekularpumpe (TMP)
+        2.5 Kryopumpe
+        2.6 Sorptionspumpe
+    3 Erzeugung eines Ultrahochvakuums
+    4 Anwendungsbeispiele in der Praxis
+    5 Weblinks
+    6 Einzelnachweise
+
+Grundprinzip
+
+Vakuumpumpen werden je nach ihrem physikalischen Wirkprinzip in Gastransfervakuumpumpen und in gasbindende Vakuumpumpen eingeteilt. Je nach der zu erreichenden Vakuumstufe und erforderlicher Pumpleistung werden verschiedene Vakuumpumpen oder Kombinationen derselben eingesetzt.
+
+Gastransfervakuumpumpen transportieren Teilchen entweder in einem geschlossenen Arbeitsraum (Verdrängervakuumpumpen) oder durch Impulsübertragung auf die Teilchen (z. B. durch Stöße). Einige Pumpen benötigen molekulare Strömung, andere laminare Strömung. Typische Vertreter der Gastransferpumpen sind Membranpumpen, Hubkolbenvakuumpumpen, Drehschieberpumpen, Sperrschiebervakuumpumpen, Wälzkolbenpumpen, Schraubenvakuumpumpen, Molekularpumpen, Turbomolekularpumpen und Flüssigkeitsstrahlpumpen.
+
+Gasbindende Vakuumpumpen erzielen ihre Pumpwirkung, indem sie Teilchen an Festkörperoberflächen binden – dieser Vorgang wird allgemein als Sorption bezeichnet – und folglich den Druck im Rezipienten vermindern. Zu den gasbindenden Vakuumpumpen gehören unter anderem Getterpumpen, Kryopumpen und Adsorptionspumpen.
+
+Unterschiedliche Pumpentypen weisen funktionsgemäß verschiedene Einsatzbereiche auf. Um niedrige Vakuumdrücke zu erzielen, benötigt man oft (beispielsweise für Drücke p < 10−3 mbar) zwei Pumpstufen. Die erste Pumpe (z. B. eine Drehschieberpumpe) erzeugt ein Vorvakuum und wird häufig als Vorpumpe bezeichnet, die nächste Pumpe ist dann mit dem Rezipienten verbunden. Typische Pumpenkombinationen bestehen beispielsweise aus einer Verdrängervakuumpumpe als Vorpumpe und einer Turbomolekular-Vakuumpumpe.
+
+Weil beim Komprimieren der Luft deren Volumen sinkt, können immer mehrere Pumpen (der zweiten Stufe) über Röhren, in denen laminare Strömung herrscht, von einer Vorpumpe (der ersten Stufe) gepumpt werden. Automatische Ventile, Kessel und Druckmesser sorgen dabei für Sicherheit und ermöglichen der Vorpumpe Pausen.
+Bauarten
+
+In der Gruppe Verdrängerpumpen haben sich aus Gründen der Fertigung, der Betriebskosten und der Zuverlässigkeit bei einigen Bauarten Varianten etabliert, die zur Abdichtung zwischen Rotor und Stator die molekulare Strömung verwenden und höhere Drehzahlen als andere Verdrängerpumpen erreichen.
+
+Bei Treibmittelpumpen (Strahlpumpen) verwendet man entweder die Reibung der laminaren Strömung oder reibungserhöhende Turbulenzen oder nutzt den Umstand aus, dass sich molekulare Strömungen ungehindert durchdringen.
+
+Turbinen mit laminarer Strömung werden z. B. im Staubsauger verwendet oder in Form einer Spiro-Pumpe in der Vakuumtechnik. Wegen ihrer hohen Saugleistung wird im Vakuumbereich aber hauptsächlich die molekulare Variante verwendet.
+Verdrängerpumpe
+
+Gemeinsames Kennzeichen aller Verdrängermaschinen ist ein gekapselter (abgeschlossener) Arbeitsraum, dessen Größe sich während des Arbeitsspiels zyklisch ändert. Das Arbeitsspiel einer Verdrängervakuumpumpe lässt sich unterteilen in die vier Arbeitsspielphasen: Ansaugen, Transportieren (Verdichten), Ausschieben und Druckwechsel. Die Ansaug- und Ausschiebephase wird dabei auch als niederdruckseitiger (ND-) bzw. hochdruckseitiger (HD-) Ladungswechsel bezeichnet. Bei Verdrängerpumpen tritt das im Rezipienten enthaltene Gas in den durch Kolben, Rotoren oder Schieber gebildeten Arbeitsraum ein, der Arbeitsraum wird abgeschlossen, das Gas wird eventuell verdichtet und dann ausgestoßen. Die mechanischen Elemente innerhalb nasslaufender Pumpen sind gegeneinander durch eine Flüssigkeit, meist Öl, abgedichtet. Bei einer Flüssigkeitsringpumpe kommt auch Wasser als Dichtmedium zum Einsatz. In den letzten Jahren ist allerdings ein Trend zu trockenlaufenden Maschinenbauarten ("Trockenläufern") zu verzeichnen, bei denen im Bereich des Arbeitsraums auf Hilfsfluide verzichtet wird. Hierdurch wird eine Verunreinigung des Arbeitsmediums vermieden. Zudem entsteht ein geringerer Wartungsaufwand, und die Kosten für die Entsorgung der Hilfsflüssigkeiten entfallen.
+
+    Folgende Pumpen werden mit Öl geschmiert: Drehschieberpumpe, Sperrschieberpumpe, Trochoidenpumpe.
+    Folgende Pumpen werden mit PTFE gedichtet: Scrollpumpe, Kolbenpumpe.
+    Folgende Pumpen verwenden einen Luftspalt: Drehkolbenpumpe (z. B. die Klauenpumpe), Schraubenpumpe.
+    Folgende Pumpe wird mit einer elastischen Membran gedichtet: die Kolbenpumpe, die dann Membranpumpe heißt.
+
+Sie werden meist zur Erzeugung von Grob- und Feinvakua eingesetzt.
+Sperrschieberpumpe
+Sperrschieberpumpe
+
+Eine klassische Sperrschieberpumpe ist eine Vakuumpumpe zur Erzeugung von Feinvakuum. Sie besteht aus einem Hohlzylinder (Stator), in dem ein weiterer Zylinder (Rotor) rotiert, der von einem Exzenter entlang der Gehäusewand geführt wird. Der Kolben ist mit einem hohlen Schieber verbunden, welcher schwenkbar im Gehäuse gelagert ist und den sichelförmigen Arbeitsraum in eine Saug- und eine Druckseite einteilt. Das eigentliche Pumpengehäuse ist mit Öl überlagert und befindet sich in einem mit Öl gefüllten Außengehäuse. Das Öl gewährleistet die Schmierung und dient zur Abdichtung des Pumpenraums und des Druckventils.
+Strahlpumpe
+
+Bei den Strahlpumpen, auch Treibmittelpumpen genannt, wird Dampf oder Flüssigkeit durch eine geeignete Düse im Innern der Pumpe mit hoher Geschwindigkeit ausgestoßen. Wird ein Gasteilchen von diesem Teilchenstrom erfasst, so wird die Impulsrichtung des Treibmittelstroms auf das Teilchen übertragen, welches dadurch in eine Zone höheren Drucks innerhalb der Pumpe transportiert wird. Dort ist der Ausgang der Pumpe angeordnet. Falls es die Druckverhältnisse erfordern, wird hier eine Vorpumpe angeschlossen, die den weiteren Transport des Gases übernimmt.
+
+Für einfache Anwendungen kann eine Wasserstrahlpumpe eingesetzt werden, deren Enddruck durch den Dampfdruck von Wasser gegeben ist.
+
+Damit dampfförmiges Treibmittel selbst nicht in den Rezipienten gelangt, wird es an den gekühlten Außenwänden der Pumpe kondensiert. Dieser Aufbau wird meist mit Ölstrahlpumpen realisiert, bei denen das Öl entweder flüssig oder dampfförmig (Öldiffusionspumpe) ist; sie erzeugen Fein-, Hoch- und Ultrahochvakuum.
+Molekularpumpe
+
+Bei Molekularpumpen, von Gaede 1913 erfunden, nutzt man die Tatsache, dass ein auf eine Wand fallendes Molekül nicht sofort reflektiert wird, sondern zwischen Adsorption und Desorption eine gewisse Verweilzeit auf der Wand verbringt. Bewegt sich nun die Wand innerhalb dieser Verweilzeit, wird die Umlaufgeschwindigkeit der Wand der isotropen Geschwindigkeitsverteilung der desorbierenden Moleküle überlagert. Die Teilchen besitzen daher nach dem Verlassen der Wand eine Vorzugsrichtung, es entsteht somit eine Strömung.
+
+Realisiert wird das Pumpenprinzip durch ein starres, kreisförmiges Behältnis und eine Rotorscheibe in der Mitte. Der Ansaugstutzen (Einlass) und der Vorvakuumstutzen (Auslass) liegen in einem Winkel von etwa 90° an dem Behältnis an. Der Abstand zwischen Außenwand und Rotor ist innerhalb dieser 90°-Anordnung viel kleiner als in den restlichen 270° Außenwinkel, ca. 5 Mikrometer, um eine Rückströmung zu vermeiden. Die Gasmoleküle treten durch den Ansaugstutzen in die Pumpe ein, adsorbieren auf dem schnell drehenden Rotor, bekommen dadurch eine Vorzugsrichtung mit, desorbieren wenig später vom Rotor und verlassen die Pumpe im Idealfall durch den Vorvakuumstutzen.
+
+Probleme dieses Pumpenprinzips sind das häufige Festfressen wegen des teilweise extrem dünnen Spalts zwischen Rotor und der Gehäusewand und die kleine Förderleistung. Diese Probleme wurden durch die Erfindung der Turbomolekularpumpe beseitigt.
+Turbomolekularpumpe (TMP)
+→ Hauptartikel: Turbomolekularpumpe
+Schnitt durch eine Turbomolekularpumpe
+
+Die Turbomolekularpumpe, 1956[1] oder 1957[2] von Willi Becker (1919–1986) erfunden und anfangs auch „Neue Molekularpumpe“ genannt, arbeitet zwar nach dem Grundprinzip der Gaedeschen Molekularpumpe, ist aber zugleich eine völlige Neukonzipierung derselben. Sie besteht aus einer ein- oder mehrstufig abwechselnden Anordnung von Statoren (Leitblechen), zwischen welchen Rotoren ähnlich wie bei einem Verdichter laufen. Die Geschwindigkeit der Rotorblätter liegt ungefähr in der Größenordnung der mittleren thermischen Geschwindigkeit der Gasmoleküle. Die Pumpwirkung beruht nicht wie beim Verdichter auf aerodynamischen Zusammenhängen, daher weicht die Formgebung von jenen ab.
+
+Die Pumpwirkung resultiert vielmehr daraus, dass den Atomen und Teilchen Impulse mit einer axialen Komponente zugefügt werden. Ob dieser zusätzliche Impuls zum Verlassen des Rezipienten ausreicht, hängt dabei von der Teilchenmasse und damit von der Atomsorte ab. Leichte Moleküle haben zum Beispiel bei Raumtemperatur eine sehr hohe Geschwindigkeit, sodass über die Pumpe nur ein kleiner zusätzlicher Impuls übertragen wird. Deswegen ist das Kompressionsvermögen für Wasserstoff und Helium bei allen Molekularpumpen deutlich schlechter als für die anderen, schwereren Bestandteile der Luft.
+
+Je nach Bauweise unterscheidet man zwischen ein- und zweiflutigen Turbomolekularpumpen. Die Drehzahl der Rotoren liegt in der Größenordnung von einigen 10.000 bis zu 90.000/min, beispielsweise bei einem ähnlichen Modell wie dem rechts abgebildeten eine 'Bereitschaftdrehzahl' von ca. 30.000/min und normale Arbeitsdrehzahl von ca. 51.000/min. Die Pumpleistung variiert je nach Typ von drei bis zu mehreren tausend Litern pro Sekunde. Turbomolekularpumpen nutzt man mit einem vorgeschalteten Vorvakuum zur Erzeugung von Ultrahochvakuum, da die Pumpe sich sonst wegen der Luftreibung zu stark erhitzen beziehungsweise die Motorleistung nicht ausreichen würde.
+
+Abgebildet ist eine einflutige Turbomolekularpumpe; oben sieht man den Ansaugstutzen, die Rotor- und Statorblätter, unten links den Abgang zum Vorvakuum.
+Kryopumpe
+
+An einer (beispielsweise mit flüssigem Helium, Wasserstoff oder Stickstoff) gekühlten Oberfläche kondensieren die meisten Gase aus, daher wird diese Pumpe auch „Kondensationspumpe“ genannt. Im Gegensatz zu praktisch allen anderen bekannten Vakuumpumpen erreichen die Kryopumpen ihr theoretisches Saugvermögen.
+
+Erst bei Wandtemperaturen unter ca. 120 K (−153,15 °C) spricht man von Kryopumpen, sonst von Dampfkondensatoren oder Kondensatoren.
+
+Die Kryopumpe dient der Erzeugung von einem Hochvakuum (p < 10−3 mbar) oder Ultrahochvakuum (p < 10−7 mbar).
+Sorptionspumpe
+
+Durch Physisorption scheidet sich das Gas an frischen, unbedeckten Oberflächen ab. Die Fläche mit dem Sorptionsmittel muss ständig erneuert werden. Als Sorptionsmittel werden Zeolithe oder Aktivkohle verwendet.
+
+Falls die Schicht durch Aufdampfen eines Metalls gebildet wird, spricht man von „Getterpumpen“. Bei der Ionengetterpumpe wird das Gas durch Elektronenstöße ionisiert und durch ein elektrisches Feld zum Sorptionsmittel getrieben. Diese Pumpen erfordern ein gutes Vorvakuum und dienen zur Erzeugung eines Ultrahochvakuums.
+
+Eine vieleingesetzte Variante der Ionengetterpumpe ist die Orbitronpumpe; um eine möglichst große Anzahl von Restgaspartikeln zu ionisieren, umlaufen die Elektronen eine zentral angeordnete, stabförmige Anode, die von einer zylindrischen Kathode umgeben ist.
+Erzeugung eines Ultrahochvakuums
+
+In der angewandten Physik bedient man sich mehrerer Pumpentypen, um ein Ultrahochvakuum zu erzeugen. Zunächst wird mit mechanisch wirkenden Pumpen (Drehschieberpumpe, Membranpumpe, Scrollpumpe) ein Vordruck im Rezipienten im Bereich von 10−2 bis 10−3 mbar erzeugt. Abhängig von der Größe des Rezipienten und der Pumpleistung der Pumpen dauert dies im Normalfall einige Minuten. Als Nächstes erzeugen Turbomolekularpumpen in einem mindestens mehrere Stunden dauernden Prozess ein Hochvakuum im Druckbereich von ungefähr 10−7 mbar. Dieser Druck lässt sich aufgrund ständiger Desorption von adsorbiertem Wasser und anderen Verbindungen mit niedrigem Dampfdruck innerhalb der Kammer nicht mehr ohne weitere Hilfsmittel verringern, auch bei unendlich lang andauernder Pumpleistung. Diese Desorptionsprozesse werden beschleunigt, wenn die Kammer durch direkte Heizung der Kammerwände und indirekte Erwärmung der inneren Oberflächen auf eine Temperatur gebracht wird, die mindestens über dem Siedepunkt von Wasser, möglichst aber deutlich höher liegt. Wichtigstes Kriterium für die Wahl der Temperatur ist die Temperaturbeständigkeit der eingebauten Komponenten wie zum Beispiel der Ventil-Dichtungen, der Transfersysteme, der elektrischen Verbindungen sowie der Sichtfenster. Übliche Ausheiztemperaturen liegen zwischen 130 und über 200 °C. Das dabei in hohem Maße desorbierende Wasser wird während des Ausheizens mittels der Turbomolekularpumpen größtenteils abgepumpt, ebenso wie eventuelle Kohlenstoff-Kontaminationen. Dieser Prozess dauert mindestens 24 Stunden; bei Kammern mit komplex angeordneten inneren Oberflächen durch angebaute Apparaturen wird üblicherweise nach zwei bis drei Tagen die Heizung heruntergefahren.
+
+Zum Erreichen des Ultrahochvakuums dienen nichtmechanische Pumpen. Eine Ionengetterpumpe pumpt durch Ionisation und Einfangen der Restgasmoleküle in Titanröhrchen in einem Druckbereich von 10−7 mbar bis 10−10 mbar. Die Pumpleistung reicht nur dann aus, wenn das Ausheizen vorher den Restgasdruck ausreichend vermindert hat. Eine Titansublimationspumpe arbeitet mit thermisch in die Kammer verteiltem Titandampf, der sich durch hohe chemische Reaktivität auszeichnet und Restgasatome an sich und die (kalte) Kammerwand bindet, so dass sich der Restgasdruck weiter vermindert. Der tiefste so erreichbare Restgasdruck liegt im Bereich von 10−11 mbar.
+
+Durch Kältefallen am unteren Teil der Kammer kann ein weiterer Teil des Restgases zeitweilig gebunden und der Kammerdruck auf ungefähr 10−12 mbar – kurzfristig bei optimaler Funktion aller beteiligten Komponenten – gesenkt werden.
+Anwendungsbeispiele in der Praxis
+Verlegen eines Steinblocks mittels Vakuumheber
+
+    Der Probenraum bei einem Elektronenmikroskop wird evakuiert, damit die Elektronen auf dem Weg von der Elektronenquelle zu der zu untersuchenden Probe und weiter zum Schirm nicht von Luftmolekülen gestreut werden, das ist eine Voraussetzung für dessen Funktion. Gleiches gilt auch für das Innere einer Elektronenstrahlröhre (z. B. in Fernsehgeräten, anderen Elektronenstrahl-Monitoren etc.).
+    Massenspektrometer benötigen zum Betrieb ein Hochvakuum.
+    Für die Molekularstrahlepitaxie wird ein Ultrahochvakuum benötigt, damit der Molekularstrahl nicht durch Stöße mit Restgasatomen abgelenkt wird und um eine Verunreinigung der herzustellenden Schichten zu vermeiden.
+    Bei der Herstellung von Glühlampen werden die Glaskolben evakuiert, bevor das Schutzgas eingefüllt wird.
+    Bei der Vakuum-Infusion wird mit Hilfe einer Vakuumpumpe Epoxidharz in eine Form gezogen und die Form verpresst.
+    In Luftfahrzeugen basieren zahlreiche Cockpitinstrumente auf Kreiseltechnik. Da Kreisel zur Erzeugung einer höchstmöglichen Stabilität einerseits auf beträchtliche Drehzahlen gebracht werden müssen, andererseits der Antrieb ohne Beeinträchtigung durch Reaktionskräfte erfolgen sollte, bedient man sich zum Antrieb eines Vakuums. Aus Gründen der Sicherheit werden in Flugzeugen oft zwei unabhängige Vakuumpumpen eingebaut. Ein Ausfall einer einzigen vorhandenen Vakuumpumpe kann bei Flügen ohne Sicht nach außen (Instrumentenflug) zu der gefährlichen Situation führen, dass für die sichere Flugdurchführung obligatorische Instrumente falsch anzeigen. Dieser Zustand kann schleichend eintreten. In modernen Luftfahrzeugen wird oft auf eine Vakuumpumpe als Kreiselantrieb verzichtet. Stattdessen bedient man sich elektrischer Antriebe.
+    Einige Hydraulikanlagen sind mit Vakuumpumpen ausgestattet, um bei Reparaturarbeiten den Austritt von Hydraulikflüssigkeit zu verringern.
+    In der bemannten Raumfahrt werden Vakuumpumen in Druckschleusen verwendet.
+
+Weblinks
+Wiktionary: Vakuumpumpe – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+Einzelnachweise
+Wolfgang Demtröder: Experimentalphysik. Band 1: Mechanik und Wärme. 4., neu bearbeitete und aktualisierte Auflage. Springer, Berlin u. a. 2006, ISBN 3-540-26034-X, S. 264.
+
+    Einführung in die Hoch- und Ultrahochvakuumerzeugung. (PDF-Datei; 864 kB) Pfeiffer Vacuum, September 2003.
+
+Normdaten (Sachbegriff): GND: 4127061-7 (lobid, OGND)
+Kategorien:
+
+    LaborgerätVakuumpumpe
+
+Navigationsmenü
+
+    Nicht angemeldet
+    Diskussionsseite
+    Beiträge
+    Benutzerkonto erstellen
+    Anmelden
+
+    Artikel
+    Diskussion
+
+    Lesen
+    Bearbeiten
+    Quelltext bearbeiten
+    Versionsgeschichte
+
+Suche
+
+    Hauptseite
+    Themenportale
+    Zufälliger Artikel
+
+Mitmachen
+
+    Artikel verbessern
+    Neuen Artikel anlegen
+    Autorenportal
+    Hilfe
+    Letzte Änderungen
+    Kontakt
+    Spenden
+
+Werkzeuge
+
+    Links auf diese Seite
+    Änderungen an verlinkten Seiten
+    Spezialseiten
+    Permanenter Link
+    Seiten­­informationen
+    Artikel zitieren
+    Wikidata-Datenobjekt
+
+Drucken/​exportieren
+
+    Als PDF herunterladen
+    Druckversion
+
+In anderen Projekten
+
+    Commons
+
+In anderen Sprachen
+
+    English
+    Español
+    Français
+    Hrvatski
+    Italiano
+    Nederlands
+    Polski
+    Русский
+    Türkçe
+
+Links bearbeiten
+
+    Diese Seite wurde zuletzt am 2. Februar 2022 um 14:30 Uhr bearbeitet.
+    Abrufstatistik · Autoren
+
+    Der Text ist unter der Lizenz „Creative-Commons Namensnennung – Weitergabe unter gleichen Bedingungen“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+    Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+    Datenschutz
+    Über Wikipedia
+    Impressum
+    Verhaltenskodex
+    Mobile Ansicht
+    Entwickler
+    Statistiken
+    Stellungnahme zu Cookies
+
+    Wikimedia Foundation
+    Powered by MediaWiki
+
